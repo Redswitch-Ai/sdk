@@ -1,0 +1,34 @@
+{
+  "name": "redswitch",
+  "version": "1.0.0",
+  "description": "The failsafe for autonomous AI agents",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Redswitch-Ai/sdk.git"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "lifecycle",
+    "monitoring",
+    "heartbeat",
+    "failsafe",
+    "autonomous",
+    "dead-mans-switch"
+  ],
+  "author": "RedSwitch <protocol@redswitch.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Redswitch-Ai/sdk/issues"
+  },
+  "homepage": "https://redswitch.ai",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
