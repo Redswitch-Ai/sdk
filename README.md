@@ -233,18 +233,20 @@ Displays: `RedSwitch | VERIFIED` (green), `RETIRED` (purple), or `OFFLINE` (red)
 ## Pricing
 
 **RedSwitch Protocol** — Free forever, MIT Licensed
+- Up to 3 agents
 - Heartbeat monitoring
 - Graceful shutdown
-- Email notifications
+- Email + Telegram notifications
+- 24-hour grace period
 - Configurable timeouts
 
 **Legacy Protocol** — $10/month or $96/year
+- Unlimited agents
 - Everything in free tier
-- Emergency contact designation
+- Up to 3 emergency contacts
 - Family notifications (plain English)
 - Estate Report
-- Circuit Breaker (API cost limits)
-- Priority support
+- 7-day grace period
 
 [Get Started →](https://redswitch.ai)
 
